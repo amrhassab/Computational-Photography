@@ -1,8 +1,5 @@
 # Computational-Photography
-Last Editted: Fall 2016
-
-Image manipulation functions
-Author: Amr Hassaballah
+This project consists of all my homework assignment submissions for the class CS534 - Computational Photogrpahy I took at the University of Wisconsin - Madison. This was one of the more intresting classes I took while finishing my Electrical Engineering and Computer Science degrees and I thought to share some of the cool image manipulation functions we made. It was very intriguing to see math interact with images to produce surprising results. 
 
 
 HW2
@@ -15,3 +12,4 @@ HW3
  
 HW4
 - Panorama Synthysis 
+
