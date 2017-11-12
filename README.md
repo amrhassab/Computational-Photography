@@ -21,7 +21,7 @@ Here we use image histograms to inhance thier contrast. We create our histogram 
 ![GitHub Logo](/HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)
 
 p1-bridge.jpg: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "input image 1")
+![alt text](/HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg "input image 1")
 
 # Refrences:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
