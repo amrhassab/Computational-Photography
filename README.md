@@ -57,7 +57,7 @@ For digital cameras that have only one image sensor **Demosiacing** using **Baye
 ![](HW2_image_processing_in_matlab/P2_demosaicing/P2-union-error.jpg)
 
 ## Problem 3: Color Transfer
-This is one of my favorite functions, here we use the colors of one (the target image) image to modify that of another image (the source image). This was accomplished using the same method from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/color-transfer-cga2001.pdf)paper.
+This is one of my favorite functions, here we use the colors of one (the target image) image to modify that of another image (the source image). This was accomplished using the same method from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/color-transfer-cga2001.pdf) paper by Erik Reinhard, Michael Ashikhmin, Bruce Gooch, and Peter Shirley.
 
 ### Results
 #### Source: mysource.jpg
@@ -69,8 +69,12 @@ This is one of my favorite functions, here we use the colors of one (the target 
 
 # Homework 3: Image Resizing Using Seam Carving
 In this assignment an algorithm for resizing an image with minimal noticeable distortion is implimented using seam carving:
-The following steps were taken with more detailed steps from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper:
-    1. **Computing the Energe function:**  
+The following steps were taken with more detailed steps from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper by Shai Avidan & Ariel Shamir.
+    1. Computing the Energey function (imenergy.m)
+    2. Computing the optimal horisontal seam (horizontal_seam.m)
+    3. Removing the Seam (remove_horizontal_seam.m)
+    4. Resize (shrnk.m)
+
 
 # Reference:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
