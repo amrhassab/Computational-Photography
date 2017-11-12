@@ -16,22 +16,24 @@ Here we use image histograms to enhance their contrast. We create our histogram 
 #### Input:
 ##### p1-bridge.jpg
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)
-##### Bridge V Channel Histogram
+##### Inout Bridge V Channel Histogram
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Vhist.jpg)
 #### Output:
-p1-bridge-out.jpg           |  V Channel Histogram
--------------------------|-------------------------
-![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Whist.jpg)
+##### p1-bridge-out.jpg
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-out.jpg)
+##### Output Bridge V Channel Histogram
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Whist.jpg)
 
 ### Image 2
 #### Input:
-p1-bridge.jpg           |  V Channel Histogram
--------------------------|-------------------------
-![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Vhist.jpg)
-#### Output:
-p1-bridge-out.jpg           |  V Channel Histogram
--------------------------|-------------------------
-![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Whist.jpg)
+#### p1-snow.jpg
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow.jpg)
+##### Input Snow V Channel histogram
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Vhist.jpg)
+##### p1-snow-out.jpg
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-out.jpg)
+##### Output Snow V Channel Histogram
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Whist.jpg)
 
 ## Problem 2: Demosaicing
 
