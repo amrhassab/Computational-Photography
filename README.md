@@ -1,4 +1,4 @@
-# Contents:
+# Content:
 **If current UW students come across this, I can't stop you from cheating but I would highly suggest considering another career path if you really feel the need to cheat for this course. The homework may seem challenging at first but they pretty much tell you what to do step by step.**
 
 This project consists of my submissions for the homework assignments outlined here: http://pages.cs.wisc.edu/~dyer/cs534/hw-toc.html. Homework number one is not included here because it is only for trying out software and no code was produced.
@@ -66,6 +66,11 @@ This is one of my favorite functions, here we use the colors of one (the target 
 ![](HW2_image_processing_in_matlab/P3_color_transfer/P3-mytarget.jpg)
 #### Output: myout.jpg
 ![](HW2_image_processing_in_matlab/P3_color_transfer/P3-myout.jpg)
+
+# Homework 3: Image Resizing Using Seam Carving
+In this assignment an algorithm for resizing an image with minimal noticeable distortion is implimented using seam carving:
+The following steps were taken with more detailed steps from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper:
+    1. **Computing the Energe function:**  
 
 # Reference:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
