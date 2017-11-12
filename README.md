@@ -19,21 +19,21 @@ Here we use image histograms to inhance thier contrast. We create our histogram 
 ### Image 1
 #### Input:
 p1-bridge.jpg           |  V Channel Histogram
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Vhist.jpg)
 #### Output:
 p1-bridge-out.jpg           |  V Channel Histogram
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Whist.jpg)
 
 ### Image 2
 #### Input:
 p1-bridge.jpg           |  V Channel Histogram
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Vhist.jpg)
 #### Output:
 p1-bridge-out.jpg           |  V Channel Histogram
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Whist.jpg)
 
 # Refrences:
