@@ -20,16 +20,5 @@ Here we use image histograms to inhance thier contrast. We create our histogram 
 ### Input 1: p1-bridge.jpg
 ![GitHub Logo](/HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)
 
- 
- 
- - demosaicing
- - color transfer
- 
-HW3
- - seam carving
- 
-HW4
-- Panorama Synthysis 
-
 # Refrences:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
