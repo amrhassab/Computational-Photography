@@ -26,15 +26,7 @@ p1-bridge-out.jpg           |  V Channel Histogram
 -------------------------|-------------------------
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Whist.jpg)
 
-### Image 2
-#### Input:
-p1-bridge.jpg           |  V Channel Histogram
--------------------------|-------------------------
-![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Vhist.jpg)
-#### Output:
-p1-bridge-out.jpg           |  V Channel Histogram
--------------------------|-------------------------
-![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Whist.jpg)
+
 
 # Refrences:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
