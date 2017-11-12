@@ -4,9 +4,9 @@
 This project consists of my submissions for the homework assignments outlined here: http://pages.cs.wisc.edu/~dyer/cs534/hw-toc.html. Homework number one is not included here because it is only for trying out software and no code was produced.
 
 1. Homework 2: Image Processing in MATLAB
-  * Problem 1: Histogram Equalization
-  * Problem 2: Demosaicing
-  * Problem 3: Color Transfer
+     * Problem 1: Histogram Equalization
+     * Problem 2: Demosaicing
+     * Problem 3: Color Transfer
   
 2. Homework 3: Image Resizing using Seam Carving
 3. Homework 4: Making Panoramas
