@@ -36,10 +36,17 @@ For digital cameras that have only one image sensor **Demosiacing** using **Baye
 ### Results
 #### Raw Input: P2-crayons-raw.jpg
 ![](HW2_image_processing_in_matlab/P2_demosaicing/P2-crayons-raw.jpg)
-#### Demosiac Output:
+#### Demosiac Output:p2-crayons-demosaic.jpg
 ![](HW2_image_processing_in_matlab/P2_demosaicing/P2-crayons-demosaic.jpg)
-#### Error Image:
+#### Error Image:p2-crayons-error.jpg
 ![](HW2_image_processing_in_matlab/P2_demosaicing/P2-crayons-error.jpg)
+
+#### Raw Input: P2-union-raw.jpg
+![](HW2_image_processing_in_matlab/P2_demosaicing/P2-union-raw.jpg)
+#### Demosiac Output:p2-union-demosaic.jpg
+![](HW2_image_processing_in_matlab/P2_demosaicing/P2-union-demosaic.jpg)
+#### Error Image: p2-union-error.jpg
+![](HW2_image_processing_in_matlab/P2_demosaicing/P2-union-error.jpg)
 
 
 
