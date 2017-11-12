@@ -16,10 +16,10 @@ Here we use image histograms to inhance thier contrast. We create our histogram 
 4. combining the original H and S channels with the W image to create a new color image, which is then converted to an RGB color output image. 
 
 ## Results:
-### Image 1: p1-bridge.jpg
-#### Input:
+
+### Input 1: p1-bridge.jpg
 ![GitHub Logo](/HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)
-Format: ![Alt Text](url)
+
  
  
  - demosaicing
