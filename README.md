@@ -8,7 +8,7 @@ This project consists of my submissions for the homework assignments outlined he
 Here we use image histograms to enhance their contrast. We create our histogram manipulation matlab function myhisteq.m by following these steps:
 1. Converting the input color image from RGB to HSV color space (using rgb2hsv which creates a double image), 
 2. Computing the histogram and cumulative histogram of the V (luminance) image only, 
-3. Transforming the intensity values in V to occupy the full range 0..255 in a new image W so that the histogram of W is roughly flat.
+3. Transforming the intensity values in V to occupy the full range 0..255 in a new image W so that the histogram of W is roughly flat.
 4. Combining the original H and S channels with the W image to create a new color image, which is then converted to an RGB color output image. 
 
 ## Results
