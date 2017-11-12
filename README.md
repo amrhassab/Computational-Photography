@@ -1,6 +1,3 @@
-TYPE or PASTE your text here... Click the RED SPELL CHECK button # Computational-Photography
-This project is the result of the class CS534 - Computational Photography I took at the University of Wisconsin - Madison. This was one of the more interesting classes I took while finishing my Electrical Engineering and Computer Science degrees and I thought to share some of the cool image manipulation functions we made. It was very intriguing to see math interact with images to produce surprising results. 
-
 # Contents:
 **If current UW students come across this, I can't stop you from cheating but I would highly suggest considering another career path if you really feel the need to cheat for this course. The homework may seem challenging at first but they pretty much tell you what to do step by step.**
 
