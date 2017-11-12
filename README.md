@@ -75,17 +75,17 @@ The following steps were taken with more detailed steps from [this](http://pages
 
 ### Results
 #### Input Image: union-terrrace.jpg
-![]()
+![](HW3/union-terrace.jpg)
 #### Energy Function Output: 2a.jpg
-![]()
+![](HW3/2a.jpg)
 #### cumulative minimum energy array: 2b.jpg
-![]() 
-#### 100 Columns Removed:
-![]()
-#### 100 Rows Removed:
-![]()
-#### 100 Columns and 100 Rows removed:
-![]()
+![](HW3/2b.jpg) 
+#### 100 Columns Removed: 1a.jpg
+![](HW3/1a.jpg)
+#### 100 Rows Removed: 1b.jpg
+![](HW3/1b.jpg)
+#### 100 Columns and 100 Rows removed: 1c.jpg
+![](HW3/1c.jpg)
 
 
 # Reference:
