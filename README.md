@@ -97,7 +97,7 @@ Here a photo panorama stitcher is implemented that takes take four or more photo
 ![](HW4/skeleton/input_images/3.jpg) 
 ![](HW4/skeleton/input_images/4.jpg)
 #### Output Image: panorama.jpg
-![](skeleton/output_images/panorama.jpg)
+![](HW4/skeleton/output_images/panorama.jpg)
 
 
 # Reference:
