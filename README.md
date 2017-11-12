@@ -1,6 +1,4 @@
 # Content:
-**If current UW students come across this, I can't stop you from cheating but I would highly suggest considering another career path if you really feel the need to cheat for this course. The homework may seem challenging at first but they pretty much tell you what to do step by step.**
-
 This project consists of my submissions for the homework assignments outlined here: http://pages.cs.wisc.edu/~dyer/cs534/hw-toc.html. Homework number one is not included here because it is only for trying out software and no code was produced.
 
 1. Homework 2: Image Processing in MATLAB
@@ -74,6 +72,20 @@ The following steps were taken with more detailed steps from [this](http://pages
     2. Computing the optimal horisontal seam (horizontal_seam.m)
     3. Removing the Seam (remove_horizontal_seam.m)
     4. Resize (shrnk.m)
+
+### Results
+#### Input Image: union-terrrace.jpg
+![]()
+#### Energy Function Output: 2a.jpg
+![]()
+#### cumulative minimum energy array: 2b.jpg
+![]() 
+#### 100 Columns Removed:
+![]()
+#### 100 Rows Removed:
+![]()
+#### 100 Columns and 100 Rows removed:
+![]()
 
 
 # Reference:
