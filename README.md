@@ -31,7 +31,17 @@ Here we use image histograms to enhance their contrast. We create our histogram 
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Whist.jpg)
 
 ## Problem 2: Demosaicing
-For digital cameras that have only one image sensor **Demosiacing** using **Bayer Patterns** is needed to convert the raw image into a full color image with three channels. In the **mydemosiac.m** matlab function filters in the form of matrices with wieghted values are used to complete the process. After the process is complete and error image is created by computing at each pixel the squared difference between the raw image and the demosaiced image for each color channel separately, then adding the three matrices together to obtain the error image.
+For digital cameras that have only one image sensor **Demosiacing** using **Bayer Patterns** is needed to convert the raw image into a full color image with three channels. In the **mydemosiac.m** matlab function, filters in the form of matrices with wieghted values are used to complete the process. After the process is complete and error image is created by computing at each pixel the squared difference between the raw image and the demosaiced image for each color channel separately, then adding the three matrices together to obtain the error image.
+
+### Results
+#### Raw Input: P2-crayons-raw.jpg
+![](HW2_image_processing_in_matlab/P2_demosaicing/P2-crayons-raw.jpg)
+#### Demosiac Output:
+![](HW2_image_processing_in_matlab/P2_demosaicing/P2-crayons-demosiac.jpg
+#### Error Image:
+![](HW2_image_processing_in_matlab/P2_demosaicing/P2-crayons-error.jpg
+
+
 
 # Reference:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
