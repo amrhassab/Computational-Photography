@@ -15,11 +15,16 @@ Here we use image histograms to inhance thier contrast. We create our histogram 
 3. Transforming the intensity values in V to occupy the full range 0..255 in a new image W so that the histogram of W is roughly “flat”.
 4. combining the original H and S channels with the W image to create a new color image, which is then converted to an RGB color output image. 
 
-## Results:
+## Results
 ### Image 1
+#### Input:
 Input: p1-bridge           |  V Channel Histogram
 :-------------------------:|:-------------------------:
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Vhist.jpg)
+
+Input: p1-bridge           |  V Channel Histogram
+:-------------------------:|:-------------------------:
+![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-out.jpg)  |  ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Whist.jpg)
 
 # Refrences:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
