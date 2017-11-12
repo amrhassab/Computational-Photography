@@ -67,7 +67,7 @@ This is one of my favorite functions, here we use the colors of one (the target 
 
 # Homework 3: Image Resizing Using Seam Carving
 In this assignment an algorithm for resizing an image with minimal noticeable distortion is implimented using seam carving:
-The following steps were taken with more detailed steps from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper by Shai Avidan & Ariel Shamir.
+The following steps were taken with following [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper by Shai Avidan & Ariel Shamir.
     1. Computing the Energey function (imenergy.m)
     2. Computing the optimal horisontal seam (horizontal_seam.m)
     3. Removing the Seam (remove_horizontal_seam.m)
@@ -86,6 +86,18 @@ The following steps were taken with more detailed steps from [this](http://pages
 ![](HW3/1b.jpg)
 #### 100 Columns and 100 Rows removed: 1c.jpg
 ![](HW3/1c.jpg)
+
+# Homework 4: Making Paronamas
+Here a photo panorama stitcher is implemented that takes take four or more photographs and creates a panoramic image by computing homographies, warping, resampling, and blending the photos into a seamless output image. An open source library caled VLFeat is used to detect feature points and find their correspondences in overlapping pairs of images.
+
+### Results
+#### Input Images: 1.jpg, 2.jpg, 3.jpg, 4.jpg
+![](HW4/skeleton/input_images/1.jpg)
+![](HW4/skeleton/input_images/2.jpg)
+![](HW4/skeleton/input_images/3.jpg) 
+![](HW4/skeleton/input_images/4.jpg)
+#### Output Image: panorama.jpg
+![](skeleton/output_images/panorama.jpg)
 
 
 # Reference:
