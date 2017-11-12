@@ -11,27 +11,27 @@ Here we use image histograms to enhance their contrast. We create our histogram 
 3. Transforming the intensity values in V to occupy the full range 0..255 in a new image W so that the histogram of W is roughly flat.
 4. Combining the original H and S channels with the W image to create a new color image, which is then converted to an RGB color output image. 
 
-## Results
-### Input: p1-bridge.jpg
+### Results
+#### Input: p1-bridge.jpg
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)
-### Input: Bridge V Channel Histogram
+#### Input: Bridge V Channel Histogram
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Vhist.jpg)
-### Output: p1-bridge-out.jpg
+#### Output: p1-bridge-out.jpg
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-out.jpg)
-### Output: Bridge V Channel Histogram
+#### Output: Bridge V Channel Histogram
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge-Whist.jpg)
 
-### Input: p1-snow.jpg
+#### Input: p1-snow.jpg
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow.jpg)
-### Input: Snow V Channel histogram
+#### Input: Snow V Channel histogram
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Vhist.jpg)
-### Output: p1-snow-out.jpg
+#### Output: p1-snow-out.jpg
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-out.jpg)
-##### Output: Snow V Channel Histogram
+#### Output: Snow V Channel Histogram
 ![](HW2_image_processing_in_matlab/P1_histogram_equalization/P1-snow-Whist.jpg)
 
 ## Problem 2: Demosaicing
-
+For digital cameras that have only one image sensor **Demosiacing** using **Bayer Patterns** is needed to convert the raw image into a full color image with three channels. In the **mydemosiac.m** matlab function filters in the form of matrices with wieghted values are used to complete the process. After the process is complete and error image is created by computing at each pixel the squared difference between the raw image and the demosaiced image for each color channel separately, then adding the three matrices together to obtain the error image.
 
 # Reference:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
