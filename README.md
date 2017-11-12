@@ -18,7 +18,8 @@ Here we use image histograms to inhance thier contrast. We create our histogram 
 ## Results:
 ### Image 1: p1-bridge.jpg
 #### Input:
-
+![GitHub Logo](/HW2_image_processing_in_matlab/P1_histogram_equalization/P1-bridge.jpg)
+Format: ![Alt Text](url)
  
  
  - demosaicing
