@@ -57,7 +57,15 @@ For digital cameras that have only one image sensor **Demosiacing** using **Baye
 ![](HW2_image_processing_in_matlab/P2_demosaicing/P2-union-error.jpg)
 
 ## Problem 3: Color Transfer
-This is one of my favorite functions, here we use the colors of one (the target image) image to modify that of another image (the source image).
+This is one of my favorite functions, here we use the colors of one (the target image) image to modify that of another image (the source image). This was accomplished using the same method from [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/color-transfer-cga2001.pdf)paper.
+
+### Results
+#### Source: mysource.jpg
+![](HW2_image_processing_in_matlab/P3_color_transfer/P3-mysource.jpg)
+#### Target: mytarget.jpg
+![](HW2_image_processing_in_matlab/P3_color_transfer/P3-mytarget.jpg)
+#### Output: myout.jpg
+![](HW2_image_processing_in_matlab/P3_color_transfer/P3-myout.jpg)
 
 # Reference:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
