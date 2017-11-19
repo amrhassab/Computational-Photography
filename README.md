@@ -5,13 +5,13 @@ This repository consists of my submissions for the homework assignments outlined
 
 Each homework has its own page and can be reaced with these links:
 
-1. [Homework 2: Image Processing in MATLAB](HW2_image_processing_in_matlab/README.md)
+1. [Homework 2: Image Processing in MATLAB](HW2_matlab_image_processing/README.md)
      * Problem 1: Histogram Equalization
      * Problem 2: Demosaicing
      * Problem 3: Color Transfer
   
-2. [Homework 3: Image Resizing using Seam Carving](HW3/README.md)
-3. [Homework 4: Making Panoramas](HW4/README.md)
+2. [Homework 3: Image Resizing using Seam Carving](HW3_seam_carving/README.md)
+3. [Homework 4: Making Panoramas](HW4_panoramas/README.md)
 
 # Some Images generated in this course:
 
