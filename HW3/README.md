@@ -16,7 +16,7 @@ The energy image shows when there is a large contrast from one area to the other
 
 ![](2a.jpg)
 #### cumulative minimum energy array: 2b.jpg
-Here we can see the progression from left to right of the cumulative energy. We start with low intensity values (blue) and as we move to the right they gradually get higher values(yellow/orange). In the last column the pixels with the lowest energy path leading to them will be bluish while those of which have a high energy path will appear orangish.
+The cumulative energy image shows the progression from left to right of the cumulative energy. This image has the same number of pixels as union-terrace.jpg. We start with low intensity values (blue) and as we move to the right they gradually get higher values(yellow/orange). In the last column the pixels with the lowest energy path leading to them will be bluish while those of which have a high energy path will appear orangish.
 
 ![](2b.jpg) 
 #### 100 Columns Removed: 1a.jpg
