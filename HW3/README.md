@@ -12,7 +12,7 @@ This is the target image we want to resize.
 
 ![](union-terrace.jpg)
 #### Energy Function Output: 2a.jpg
-The energy image shows when there is a large contrast from one area to the other (from dark to light or vise versa). For example, you can see that the energy image is very bright around the circumference of the yellow tables. This indicates a sharp change in intensity from the deck to table. Our seems will most likely go around these areas because removing pixels there will generate visable artifacts in the resized image.
+The energy image shows when there is a large contrast from one area to the other (from dark to light or vise versa). For example, you can see that the energy image is very bright around the circumference of the yellow tables. This indicates a sharp change in intensity from the deck to the table. Our seems will most likely go around these areas because removing pixels there will generate visable artifacts in the resized image.
 
 ![](2a.jpg)
 #### cumulative minimum energy array: 2b.jpg
