@@ -8,9 +8,9 @@ Richard Szeliski.
 
 ## Results
 ### Input Images: 1.jpg, 2.jpg, 3.jpg, 4.jpg
-![](HW4/skeleton/input_images/1.jpg)
-![](HW4/skeleton/input_images/2.jpg)
-![](HW4/skeleton/input_images/3.jpg) 
-![](HW4/skeleton/input_images/4.jpg)
+![](input_images/1.jpg)
+![](input_images/2.jpg)
+![](input_images/3.jpg) 
+![](input_images/4.jpg)
 ### Output Image: panorama.jpg
-![](HW4/skeleton/output_images/panorama.jpg)
+![](output_images/panorama.jpg)
