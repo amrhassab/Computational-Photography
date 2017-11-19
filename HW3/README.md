@@ -8,8 +8,10 @@ The following steps were taken with following [this](http://pages.cs.wisc.edu/~d
 
 ### Results
 #### Input Image: union-terrrace.jpg
+This is the target image we want to resize.
 ![](union-terrace.jpg)
 #### Energy Function Output: 2a.jpg
+Here we can see that edges where there is a sharp contrast in color, like the edge between the floor and a colorful table, have the highest energy.
 ![](2a.jpg)
 #### cumulative minimum energy array: 2b.jpg
 ![](2b.jpg) 
