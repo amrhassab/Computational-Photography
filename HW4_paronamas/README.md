@@ -1,4 +1,4 @@
-[:house: Home Page](../README.md)
+[Home Page](../README.md)
 # Homework 4: Making Paronamas
 Here a photo panorama stitcher is implemented that takes take four or more photographs and creates a panoramic image by 
 computing homographies, warping, resampling, and blending the photos into a seamless output image. An open source library 
