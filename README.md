@@ -14,8 +14,5 @@ Each homework has its own page and can be reaced with these links:
 2. [Homework 3: Image Resizing using Seam Carving](HW3_seam_carving/README.md)
 3. [Homework 4: Making Paronamas](HW4_paronamas/README.md)
 
-### Sample from HW3
-![](HW3_seam_carving/2b.jpg) 
-
 ### References:
 Although the solutions are mine please keep in mind that the course itself (http://pages.cs.wisc.edu/~dyer/cs534/index.html) does not belong to me. Also some of the steps described here are paraphrased from the homework assignments themselves which also do not belong to me.
