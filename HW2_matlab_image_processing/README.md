@@ -1,7 +1,5 @@
-# Homework 2: Image Processing in MATLAB
-
 [:house: Home Page](../README.md)
-
+# Homework 2: Image Processing in MATLAB
 ## Problem 1: Histogram Equalization
 Here we use image histograms to enhance their contrast. We create our histogram manipulation matlab function myhisteq.m by following these steps:
 1. Converting the input color image from RGB to HSV color space (using rgb2hsv which creates a double image), 
