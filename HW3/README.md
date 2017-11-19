@@ -1,6 +1,6 @@
 # Homework 3: Image Resizing Using Seam Carving
 In this assignment an algorithm for resizing an image with minimal noticeable distortion is implimented using seam carving:
-The following steps were taken with following [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper by Shai Avidan & Ariel Shamir.
+The following steps were taken following [this](http://pages.cs.wisc.edu/~dyer/cs534/papers/AvidanShamir2007-SeamCarving.pdf) paper by Shai Avidan & Ariel Shamir.
     1. Computing the Energey function (imenergy.m)
     2. Computing the optimal horisontal seam (horizontal_seam.m)
     3. Removing the Seam (remove_horizontal_seam.m)
