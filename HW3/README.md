@@ -12,7 +12,7 @@ This is the target image we want to resize.
 
 ![](union-terrace.jpg)
 #### Energy Function Output: 2a.jpg
-Here we can see that edges where there is a sharp contrast in color, like the edge between the floor and a colorful table, have the highest energy.
+Here we can see that edges where there is a sharp contrast in color, like the edge between the floor and a colorful table, have the highest energy. Our seems will most likely work away around these areas because removing pixels there will generate visable artifacts in the resized image.
 
 ![](2a.jpg)
 #### cumulative minimum energy array: 2b.jpg
