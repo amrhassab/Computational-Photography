@@ -11,10 +11,15 @@ Each homework has its own page and can be reaced with these links:
      * Problem 3: Color Transfer
   
 2. [Homework 3: Image Resizing using Seam Carving](HW3_seam_carving/README.md)
-3. [Homework 4: Making Panoramas](HW4_paronamas/README.md)
+3. [Homework 4: Making Paronamas](HW4_paronamas/README.md)
 
 # Some Images generated in this course:
 
+## cumulative minimum energy array from HW3: seam carving
+![](HW3_seam_carving/2b.jpg) 
+
+#### Output from HW2 P3: Color Transfer
+![](HW2_matlab_image_processing/P3_color_transfer/P3-myout.jpg)
 
 
 # References:
