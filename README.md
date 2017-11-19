@@ -11,7 +11,7 @@ Each homework has its own page and can be reaced with these links:
      * Problem 3: Color Transfer
   
 2. [Homework 3: Image Resizing using Seam Carving](HW3_seam_carving/README.md)
-3. [Homework 4: Making Panoramas](HW4_panoramas/README.md)
+3. [Homework 4: Making Panoramas](HW4_paronamas/README.md)
 
 # Some Images generated in this course:
 
