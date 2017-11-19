@@ -1,10 +1,10 @@
 ![](HW2_matlab_image_processing/P3_color_transfer/P3-myout.jpg)
 
-This course explores computational image manipulaiton methods using matlab. It introduced me to the very interesting niche of media processing and was a fun and enjoyable learning experience.  
+This course explores computational image manipulation methods using matlab. It introduced me to the very interesting niche of media processing and was a fun and enjoyable learning experience.  
 
 This repository consists of my submissions for the homework assignments outlined here: http://pages.cs.wisc.edu/~dyer/cs534/hw-toc.html. Homework number one is not included here because no code is produced to complete it.
 
-Each homework has its own page and can be reaced with these links:
+Each homework has its own page and can be reached with these links:
 
 1. [Homework 2: Image Processing in MATLAB](HW2_matlab_image_processing/README.md)
      * Problem 1: Histogram Equalization
